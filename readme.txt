@@ -3,3 +3,4 @@ git is free software distributed under the GPL.
 lllll
 lkiju
 win abc
+mac bbn
